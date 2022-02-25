@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the proceedings at the Sessions-House in the Old-Bayly, which began on Wednesday the 10th of this instant October, and ended on Saturday the 12th of the same month giving an account of all the remarkable tryals there, viz, for high-treason, murders, fellonies and burglaries &amp;c., with the criminals, names and places of committing their facts, with the number of those condemn'd to be hang'd, transported, and to be whip [sic]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63612</idno>
+            <idno type="STC">Wing T2832</idno>
+            <idno type="STC">ESTC R12721</idno>
+            <idno type="EEBO-CITATION">13801785</idno>
+            <idno type="OCLC">ocm 13801785</idno>
+            <idno type="VID">101951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the proceedings at the Sessions-House in the Old-Bayly, which began on Wednesday the 10th of this instant October, and ended on Saturday the 12th of the same month giving an account of all the remarkable tryals there, viz, for high-treason, murders, fellonies and burglaries &amp;c., with the criminals, names and places of committing their facts, with the number of those condemn'd to be hang'd, transported, and to be whip [sic]</title>
+                  <author>England and Wales. Court of Oyer and Terminer and Gaol Delivery (London and Middlesex).</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. Steward,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proceedings">
+            <pb n="1" facs="tcp:101951:1"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEEDINGS AT The Seſſions-Houſe IN THE OLD-BAYLY, Whieh began on <hi>Wedneſday</hi> the 10th of this Inſtant <hi>October,</hi> and ended on <hi>Saturday</hi> the 12th, of the ſame Month.</head>
+            <argument>
+               <p>Giving an Account of all the Remarable Tryals there, <hi>Viz.</hi> For <hi>High-Treaſon,</hi> Murders, Fellonies, and Burglaries, <hi>&amp;c.</hi> with the Criminals Names, and Places of Committing their Facts, with the Number of thoſe Condemn'd to be Hang'd Tranſported, and to be Whip.</p>
+            </argument>
+            <p>AT the <hi>Seſſions-Houſe</hi> in the <hi>Old-Bayly,</hi> on <hi>Wedneſday</hi> the 10th. of this Inſtant <hi>October,</hi> about 9 a Clock in the Morning, the Right Honourable St. <hi>William Prichard</hi> Kt. <hi>Cuſtos, Lord Mayer</hi> of the City of <hi>London;</hi> for the time being; with ſeveral <hi>Alder<g ref="char:EOLhyphen"/>men, Juſtices</hi> of the ſame City; together with the Right Honour<g ref="char:EOLhyphen"/>able Sr. <hi>George Jefferies</hi> Knight and Barronet, Lord Chief Juſtice of his Majeſties <hi>Court of Kings-Bench,</hi> and one of the Lords of his Majeſties moſt Honourable <hi>Privy Council;</hi> Sr. <hi>Thomas Jenner</hi> the preſent <hi>Recorder</hi> and o<g ref="char:EOLhyphen"/>ther <hi>Commiſſioners</hi> of <hi>Oyer</hi> and <hi>Terminer,</hi> for the City of <hi>London, Weſtmin<g ref="char:EOLhyphen"/>ſter County</hi> of <hi>Middleſex,</hi> and <hi>Goal</hi> Dilevery of <hi>Newgate,</hi> being Aſ<g ref="char:EOLhyphen"/>ſembled in <hi>Court, Proclamation</hi> was made in the accuſtomed manner; For all Perſons to appear, or give their Attendance; which being ended, ſe<g ref="char:EOLhyphen"/>veral perſons accuſed, were called to the Bar, to whom <hi>Indictments</hi> of Fello<g ref="char:EOLhyphen"/>nies,
+<pb n="2" facs="tcp:101951:2"/>Murders, Burglaries, <hi>&amp;c.</hi> were read, as hereafter are named, who pleaded not Guilty, and put themſelves upon their Tryals, <hi>Viz. John Smith, William Smith, John Pyſon, William Williams, Chriſtopher Moor Robert Vallers, John Thompſon, Thomas Atkins, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>John Pyſon</hi> being brought upon his Tryal for Murthering of <hi>Suſanna Roberts</hi> a Child. It appeared; that upon turning of his Coach upon the Corner of a Street, the Wheel accidentally ran over the Head of the ſaid party, and no Malice being, <hi>&amp;c.</hi> the <hi>Jury</hi> found him Guilty of Manſlaughter.</p>
+            <p>
+               <hi>William Williams</hi> was Indicted for a Rape, upon the Body of <hi>Sibyl May,</hi> Aged ſixty years, or thereabouts; but upon full inquiry into the Fact, the Evidence was not ſo convincing as to induce the <hi>Jury</hi> to find him Guilty. The ſame Proſecuters preferred two other Indictments of Fellony againſt the ſame perſon; and alledged, he had Felloniouſly took from her a <hi>Ring, Scarf,</hi> and <hi>Hood,</hi> &amp;c. the ſame day: which ap<g ref="char:EOLhyphen"/>pearing more reaſonable for the <hi>Jury</hi> to believe, they found the ſaid <hi>William VVilliams</hi> Guilty of both Fellonies, and the <hi>Court</hi> ordered him to be ſet aſide, to anſwer Judgment thereupon.</p>
+            <p>
+               <hi>Chriſtopher Moor,</hi> was indicted for Fellony and Burglary, ſtealing from one <hi>William Reves,</hi> at the <hi>Lamb-Inn,</hi> in the Pariſh of St. <hi>Clement Danes,</hi> in the County of <hi>Middleſex,</hi> divers parcels of Apparrel, and other Goods to a conſiderable value; and upon the Tryal of the Cauſe, the E<g ref="char:EOLhyphen"/>vidence being plain, beſides the Goods taken upon the Priſoner produced, he was found Guilty, and ſet aſide for Judgment.</p>
+            <p>
+               <hi>Robert Vallers,</hi> was Tryed for ſtealing ſeveral pieces of <hi>Plate,</hi> from <hi>Nicholas Ramſden,</hi> and found Guilty. Alſo one <hi>John Thompſon</hi> was Try<g ref="char:EOLhyphen"/>ed for taking a <hi>Scarf</hi> from <hi>Mary Harberly,</hi> and found Guilty. And one <hi>Thomas Atkins,</hi> was likewiſe found Guilty of ſtealing a <hi>Silver Tankard</hi> from <hi>Elizabeth Green,</hi> and the <hi>Court</hi> Adjourned till three a Clock: at which time being ſat, &amp; <hi>Proclamation</hi> made, <hi>Richard Rouch, Thomas Fitz-James,</hi> and one Mr. <hi>Atkinſon,</hi> were all three Arraigned and Tryed for Killing Mr. <hi>Iſack Welch</hi> in <hi>Chancery-Lane;</hi> and after a full hearing of the Evidence for the King, the <hi>Jury</hi> brought the two latter not Guilty; and it appearing by the Evidence and Circumſtance of the Fact, that there was no Grudge or Malice, between the ſaid <hi>Rouch</hi> and the Deceaſed Mr. <hi>Welch,</hi> between whom the Quarrel hapined, which occaſioned the death of the latter, they found the ſaid Mr. <hi>Rouch</hi> Guilty of Manſlaughter.</p>
+            <p>
+               <hi>John Smith,</hi> and <hi>William Smith,</hi> were Tryed, for Felloniouſly ſtealing divers Goods of great value, from the Right Honourable the Earl of <hi>Lind<g ref="char:EOLhyphen"/>ſey.</hi> The Evidences, and Circumſtances being very plain, they were both found Guilty, and ſet aſide for Judgment,</p>
+            <p>
+               <hi>John Green,</hi> was Arraigned, for Felloniouſly ſtealing <hi>Sheep,</hi> and other Cattle; and pleaded Guilty to his Indictment, and was alſo ſet aſide for Judgment.</p>
+            <p>
+               <hi>Peter Crown,</hi> a Soldier, was Arraigned, and Tryed, for Killing a Man. but upon Examination of the Evidence, it appeared a Quarrel aroſe be<g ref="char:EOLhyphen"/>tween the Priſoner and the Deceaſed perſon, and not proceeding from any former Grudge or Malice between them, the <hi>Jury</hi> found him Guilty of Manſlaughter.</p>
+            <pb n="3" facs="tcp:101951:2"/>
+            <p>
+               <hi>James Oagly</hi> was Arraigned and Tryed for ſtealing from <hi>Joſeph Han<g ref="char:EOLhyphen"/>cokes</hi> eighteen Shilling and ſixpence in Money, but upon Tryal of the Cauſe there being no poſſitive Evidence, &amp; the Circumſtances not being ſufficient, to make out the Accuſation, the <hi>Jury</hi> found him not Guilty; and the <hi>Court</hi> Adjourn'd till eight a Clock the next Morning.</p>
+            <p>
+               <hi>Thurſday</hi> the 11th, according to the Adjournment laſt-Night, the <hi>Court,</hi> ſat and proceeded in the Buſineſs of the Goal Delivery and <hi>Charls Butler</hi> was Arraigned and Tryed for <hi>High Treaſon,</hi> beie charg<g ref="char:EOLhyphen"/>ed for <hi>Cliping</hi> &amp; <hi>Counterfeit Cuoining</hi> his Majeſties <hi>Current Money:</hi> but upon the Tryal of the Cauſe, the Evidence being not ſufficient to prove the matter according to the Direction of the Statute he was brought in Guilty. And one Mrs. <hi>Elizabeth Hare,</hi> who was tryed for <hi>Hegh Trea<g ref="char:EOLhyphen"/>ſon,</hi> upon the ſame Statute, was found Guilty, <hi>and ſet aſide for Judgment.</hi>
+            </p>
+            <p>
+               <hi>Sidly <g ref="char:V">Ʋ</g>anderlyn, Charls Dod, Charles Roberts, Hugh Jones, Edward Williams,</hi> were Tryed, for Robbing of <hi>Richard Litleton</hi> of a Hat and four Shillings in Money.</p>
+            <p>The ſaid perſons, together with one <hi>Andrew Edwards,</hi> a <hi>Cheeſemonger</hi> ſome<g ref="char:EOLhyphen"/>what near <hi>Billings-gate,</hi> and others of the ſame Gang, who are fled from Juſtice, had made it their common practice to Ape ſome hot-head De<g ref="char:EOLhyphen"/>bauches of the Town, in kiſſing all women kind they met in the ſtreets: and under that pretence they took the opportunity of picking their poc<g ref="char:EOLhyphen"/>kets, or Robbing them of any goods they might have about them; &amp; were ſo audaciouſly inſolent, that they purſued ſeveral women, into the Houſ<g ref="char:EOLhyphen"/>es they fled to avoid their Miſcheivous uſeage: many modeſt Women complaining of their Beaſtly Affronts. In this manner they had peſter'd the ſtreets, Alleys and Lanes, near the <hi>Royal Exchange</hi> for ſome time, and would paſs the ſtreets with an unuſual Boldnſs for Villians of their profeſſion; Whooping, and Hallowing. Their Rendevouz being at a kind of a <hi>Quakers</hi> Ale-Houſe, at or near the <hi>Stocks Market:</hi> Being refu<g ref="char:EOLhyphen"/>ſed admittance into all other publick Houſes in that Neighbourhood. Mr. <hi>Weſton</hi> the City Martial, having notice of the ſaid parties, took one of the ſame Profeſſion of Filers, or divers that belonged to another Gang, and he ingeniouſly diſcovered the whole Herd, and was induſtri<g ref="char:EOLhyphen"/>ouſly Inſtrumental in the taking and apprehending, of the ſaid notori<g ref="char:EOLhyphen"/>ous Malefactors. In the purſuit of them, The ſaid <hi>Sydney Vandelee,</hi> ſtob<g ref="char:EOLhyphen"/>bed a Tallow Chandlers Apprentice, and but for the Extraordinary care of the <hi>Chirurgeon,</hi> the wound might have proved Mortal. The ſaid <hi>Vanderlyn</hi> was taken at a <hi>Hatmakers</hi> neer <hi>St. Brides Church</hi> that uſed to dreſs Hats, and work in the way of his Trade, to ſeveral that are ſuſpected to follow the ſaid courſe of life.</p>
+            <p>Our ſaid Sparks, would ſometime, according to the ſeaſon of the year Travil the Circuits, and repear to <hi>Inns</hi> in <hi>Towns</hi> ap<g ref="char:EOLhyphen"/>pointed for the <hi>Aſſizes,</hi> and pretend to take up Lodgings for the Judges Attendance; when indeed they had no other buſineſs but Robing or Stealing where ever they came; and are ſaid to out-do any, that ever yet pretended to the Profeſſion in all manner of wickedneſs; though ſome of them have ſcarce ſeen ſixteen years in the World, &amp; the <hi>Graveſt</hi> of the <hi>Gang,</hi> not much above twenty, but moſt of them have the Charracter of being Thieves, almoſt ever ſince they were able to walk the Streets.</p>
+            <p>upon the ſaid Tryal, the Evidence was full and plain againſt them all
+<pb n="4" facs="tcp:101951:3" rendition="simple:additions"/>upon which the Lord Chief Juſtice <hi>Jefferies</hi> ſumed up the Evidence minding the <hi>Jury,</hi> the Danger every Man in his own perſon, as well as the perſon oi his Servants were in, if ſuch out-rages were not Exampla<g ref="char:EOLhyphen"/>ry puniſhed, that the peace &amp; civil Government of the City was invaded by them, beſides the evil Example, they might poſſible give to Youth, being in a manner but Children, and might with the more eaſe draw in many more young People with their diſſolute way of living; if they were not ſtopt in the Carreire, of their wickedneſs, and that they were a ſort of people, that Robbed every body they met. It being their day<g ref="char:EOLhyphen"/>ly practice, to ſtrole into all parts of the City and Country, upon no o<g ref="char:EOLhyphen"/>ther buſineſs, and that ſeveral of them had received the Mercy of the <hi>Court</hi> for paſt offences, and were become hardned in their wickedneſs. One ſwearing, he had done the <hi>Rogues</hi> buſineſs, meaning the innocent honeſt <hi>Tallow-Chandlers</hi> Servant, and attempted the like Miſchief upon one of the Sheriffs Officers, but their Villanies, being to many to repeat, his Lordſhip left the whole Charge to the Conſideration of the <hi>Jury,</hi> who brought them in Guilty of the Fellonies, and Robberies, of which they ſtood Indicted.</p>
+            <p>
+               <hi>Robert Thomas, Joſeph Roberts,</hi> and <hi>Jonathan Parſons,</hi> were Indicted and Tryed, for ſtealing a Gelding valued at 10. <abbr>
+                  <hi>l.</hi>
+               </abbr> and upon Tryal of the Cauſe it appeared, that the ſaid <hi>Thomas,</hi> and <hi>Roberts,</hi> were no ways Conſenting or privy to the Felony, and the Jury brought them in not Guilty, and ſet them up for Evidence, and both of them declared the ſaid perſons brought the Gelding, and employed one of them to Ride him, and the other to ſell him, which was all they knew of the buſineſs and the Court was fully ſatisfied of their innocency, and cauſed them to be immediately diſcharged without Fees, and proceeded on the Tryal of <hi>Parſons</hi> only, who was found Guilty. The ſame <hi>Parſons</hi> was Indicted of a Felony, and Burglary, upon the Houſe of one <hi>Jonathan Beck,</hi> and ſtealing a Tankard and other Goods, but the Proſecuter not being able to prove Matter of Fact (alledging only ſome Circum; ſtances) he was found not Guilty of that Indictment. <hi>Thomas Wade,</hi> was found Guilty of ſtealing <hi>Tobacco</hi> to the value of 10. <abbr>
+                  <hi>l.</hi>
+               </abbr> and <hi>Robert Dillaber</hi> was found Guilty of a F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lony of the ſame value. <hi>Thomas Hernes</hi> and <hi>Jacob Horten,</hi> were tryed for Kiillng <hi>John Harding</hi> at the <hi>Kings-Head</hi> in <hi>Fanchurch-Street.</hi> brought in not Guilty <hi>Samu<g ref="char:EOLhyphen"/>el Mathews,</hi> was tryed for ſtealidg a Silver Tankard from <hi>Tho. Caucor</hi> and found Guilty. <hi>Eliz. Green,</hi> and <hi>Wm. Stanbrook,</hi> were tryed for a Felony of the ſame Nature <hi>Green</hi> was Convicted, and <hi>Stanbrook</hi> accquitred. <hi>Hanah Peſar,</hi> was tryed for taking a Watch from the perſon of <hi>Robert Rouſe,</hi> and Accquitted. <hi>John Knight, Thomas By<g ref="char:EOLhyphen"/>body,</hi> and <hi>Thomas Edmunds,</hi> were all Convicted for ſtealing two Geldings.</p>
+            <p>
+               <hi>Saturday</hi> Morning, the <hi>Seſſions</hi> met, and proceeded in the buſineſs, <hi>Mary Phelps,</hi> was found Guilty of Murthering <hi>John Charlton</hi> in <hi>Covent-Garden,</hi> and <hi>Francis Eggle<g ref="char:EOLhyphen"/>ſton,</hi> was found Guilty of a Robbery on the <hi>High-way,</hi> and taking a Cravat, &amp; Hat, from <hi>Iſaack Jacſon. William Clark,</hi> was found Guilty of ſpeaking Treaſonable VVords, concerning his Majeſty and ſaying the preſent <hi>Fanatick</hi> Conſpiracy, or Plot, was no Plot &amp; ordered to ſtand in the <hi>Pillory,</hi> &amp; pay a <hi>Fine</hi> to the King, of 100 Markes. <hi>Charles Butler</hi> was Convicted of <hi>High-Treaſon,</hi> for diminiſhing the Current Coin. <hi>John Quarles,</hi> and <hi>Charles Temple,</hi> were found Guilty of Felony. Divers others were tryed for Felonies of divers kinds, and accquitted. No poſſitive proof being brought againſt them, in Fine. The Court paſſed Sentence of Death, upon <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. <hi>Vez. Eliz. Hare,</hi> and <hi>Cha. Butler,</hi> for <hi>High-Treaſon, Mary Phelps</hi> for Murther, and ſeveral Felo<g ref="char:EOLhyphen"/>nies of divers kinds. 8 were Burnt in the hand, and 8 Tranſported, and 6 ordered to be VVhip'd, which concluded the Seſſions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON <hi>Printed for</hi> M. Steward 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
